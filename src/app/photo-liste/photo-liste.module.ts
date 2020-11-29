@@ -9,7 +9,7 @@ import { PhotoListePageRoutingModule } from './photo-liste-routing.module';
 
 import { PhotoListePage } from './photo-liste.page';
 import { PhotoDetailPage } from '../photo-detail/photo-detail.page';
-import { HttpClientModule } from '-node_modules/@angular/common/http';
+import { HttpClientModule } from 'node_modules/@angular/common/http';
 
 @NgModule({
   imports: [

@@ -4,7 +4,7 @@ import { IonicModule } from '@ionic/angular';
 import { RouterTestingModule } from '@angular/router/testing'; 
 import { HttpClientTestingModule } from '@angular/common/http/testing';
 import { PhotoDetailPage } from './photo-detail.page';
-import { ActivatedRoute } from '-node_modules/@angular/router/router';
+import { ActivatedRoute } from 'node_modules/@angular/router/router';
 
 describe('PhotoDetailPage', () => {
   let component: PhotoDetailPage;

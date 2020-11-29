@@ -4,7 +4,7 @@ import { IonicModule } from '@ionic/angular';
 import { PhotoListePage } from './photo-liste.page';
 import { RouterTestingModule } from '@angular/router/testing';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
-import { count } from '-node_modules/rxjs/operators';
+import { count } from 'node_modules/rxjs/operators';
 
 
 describe('PhotoListePage', () => {
